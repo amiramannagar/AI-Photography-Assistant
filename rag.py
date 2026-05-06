@@ -12,8 +12,8 @@ from data_loader import build_chunks
 # BUILD DATA
 # =========================
 
-PDF_PATH = "RAG Data\pdfs"
-CSV_PATH = "RAG Data\photography_rag_dataset_clean.csv"
+PDF_PATH = "RAG Data/pdfs"
+CSV_PATH = "RAG Data/photography_rag_dataset_clean.csv"
 
 chunks = build_chunks(PDF_PATH, CSV_PATH)
 
