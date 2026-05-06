@@ -3,8 +3,6 @@ from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_core.prompts import PromptTemplate
 from transformers import AutoTokenizer, AutoModelForSeq2SeqLM
 import re
-
-# ✅ import pipeline
 from data_loader import build_chunks
 
 
