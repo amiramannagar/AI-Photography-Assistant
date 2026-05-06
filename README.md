@@ -4,8 +4,12 @@ Photography assistant using a Retrieval-Augmented Generation (RAG) approach to g
 
 ---
 
-## 🎥 Demo
+## 🚀 Live Demo
+🔗 [Click here to try the AI Photography Assistant](https://ai-photography-assistant-nvtdqg5ztneldkevvkutxq.streamlit.app/)
 
+---
+
+## 🎬 Demo Video
 ![Demo](demo.gif)
 
 ---
